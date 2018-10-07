@@ -17,5 +17,10 @@ from django.contrib import admin
 from django.urls import path
 
 urlpatterns = [
+    # clazes
+    # subjects
+    # inspectors
+    # scores
+    # stats
     path('djangodefaultadmin/', admin.site.urls),
 ]
